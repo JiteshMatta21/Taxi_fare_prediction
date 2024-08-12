@@ -24,11 +24,15 @@ Fare Amount: The amount charged for the taxi ride.
 Objectives:
 To preprocess the data by handling missing values, outliers, and ensuring proper data types.
 To perform feature engineering, such as calculating the distance between pickup and drop-off points and extracting useful time-based features from the pickup datetime.
+
 To develop and evaluate various machine learning models, such as Linear Regression, Decision Trees, and Gradient Boosting, for predicting taxi fares.
 To analyze and visualize the relationship between different features and the fare amount.
 To optimize the model for better accuracy and generalization using techniques like cross-validation and hyperparameter tuning.
 
 Tools and Technologies:
+
 Programming Language: Python
+
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost
+
 Environment: Jupyter Notebook
