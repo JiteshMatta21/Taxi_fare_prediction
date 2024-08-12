@@ -6,12 +6,19 @@ Dataset Description:
 The TaxiFare dataset contains 50,000 rows, with each row representing a unique taxi ride. The dataset includes the following 8 main features:
 
 Unique ID: A unique identifier assigned to each customer.
+
 Number of Passengers: The number of passengers in the taxi during the ride.
+
 Pickup Longitude: The longitudinal coordinate of the pickup location.
+
 Pickup Latitude: The latitudinal coordinate of the pickup location.
+
 Drop-off Longitude: The longitudinal coordinate of the drop-off location.
+
 Drop-off Latitude: The latitudinal coordinate of the drop-off location.
+
 Pickup Date and Time: The date and time when the pickup occurred.
+
 Fare Amount: The amount charged for the taxi ride.
 
 Objectives:
